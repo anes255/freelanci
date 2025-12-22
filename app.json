@@ -48,7 +48,8 @@
           "cameraPermission": "The app needs access to your camera to take photos for profile pictures and ID images."
         }
       ],
-      "expo-font"
+      "expo-font",
+      "./app.plugin.js"
     ],
     "extra": {
       "eas": {
