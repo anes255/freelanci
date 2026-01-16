@@ -2,7 +2,7 @@ import axios from 'axios';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 
 // Backend API URL
-const API_URL = 'https://frelanci-backend.onrender.com/api';
+const API_URL = 'https://frelanci-backend-g2wl.onrender.com/api';
 
 const api = axios.create({
   baseURL: API_URL,
